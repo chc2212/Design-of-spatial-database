@@ -59,7 +59,7 @@ the lions and ponds must be reset to their original colors.
 - Eclipse Luna(4.4.2) 
 - JRE 8
 - Oracle Express 11g
-- Sqldeveloper
+- Sqldeveloper 4.1.2
 
 #Screen Captures
 <img src="https://github.com/chc2212/Design-of-spatial-database/blob/master/pic1.JPG" width="300" align ="left">
