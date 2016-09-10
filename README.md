@@ -1,5 +1,5 @@
 # Design-of-spatial-database
-This is project in "Database Systems" lecture.
+This is final project in "Database Systems" lecture.
 # Instruction
 1. Run Sqldeveloper and connect Database (ID: system, Password: 12345)
 2. Query createdb.sql in Sqldeveloper to set up initial table
