@@ -3,8 +3,7 @@ This is final project in "Database Systems" lecture.
 
 #Screen Captures
 <img src="https://github.com/chc2212/Design-of-spatial-database/blob/master/pic1.JPG" width="300" align ="left">
-<img src="https://github.com/chc2212/Design-of-spatial-database/blob/master/pic2.JPG" width="300" align ="left">
-
+<img src="https://github.com/chc2212/Design-of-spatial-database/blob/master/pic2.JPG" width="300">
 
 #Project Background
 Panthera, the world’s leading cat conservation organization, is focusing on saving endangered
