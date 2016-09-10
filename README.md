@@ -1,11 +1,5 @@
 # Design-of-spatial-database
 This is final project in "Database Systems" lecture.
-# Instruction
-1. Run Sqldeveloper and connect Database (ID: system, Password: 12345)
-2. Query createdb.sql in Sqldeveloper to set up initial table
-3. Import JavaProject to Eclipse
-4. Import library files in JavaProject/library into Eclipse project
-5. Run project
 
 #Project Background
 Panthera, the world’s leading cat conservation organization, is focusing on saving endangered
@@ -52,12 +46,19 @@ in the previously clicked region must be reset to their original colors.
 * If the user unchecks the checkbox “show lions and ponds in selected region”, all
 the lions and ponds must be reset to their original colors.
 
+# Instruction
+1. Run Sqldeveloper and connect Database (ID: system, Password: 12345)
+2. Query createdb.sql in Sqldeveloper to set up initial table
+3. Import JavaProject to Eclipse
+4. Import library files in JavaProject/library into Eclipse project
+5. Run project
 #Development Enviroment
 - Windows 8
 - Eclipse Luna(4.4.2) 
 - JRE 8
 - Oracle Express 11g
 - Sqldeveloper
+
 #Screen Captures
 <img src="https://github.com/chc2212/Design-of-spatial-database/blob/master/pic1.JPG" width="300" align ="left">
 <img src="https://github.com/chc2212/Design-of-spatial-database/blob/master/pic2.JPG" width="300" align ="left">
