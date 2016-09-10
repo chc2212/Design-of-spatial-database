@@ -8,3 +8,4 @@
 #Development Enviroment
 - Windows 8
 - Eclipse Luna(4.4.2) 
+- JRE 8
