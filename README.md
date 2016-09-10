@@ -1,6 +1,11 @@
 # Design-of-spatial-database
 This is final project in "Database Systems" lecture.
 
+#Screen Captures
+<img src="https://github.com/chc2212/Design-of-spatial-database/blob/master/pic1.JPG" width="300" align ="left">
+<img src="https://github.com/chc2212/Design-of-spatial-database/blob/master/pic2.JPG" width="300" align ="left">
+
+
 #Project Background
 Panthera, the world’s leading cat conservation organization, is focusing on saving endangered
 Lions in African national park. They have divided the park into multiple regions and purchased a
@@ -61,6 +66,3 @@ the lions and ponds must be reset to their original colors.
 - Oracle Express 11g
 - Sqldeveloper 4.1.2
 
-#Screen Captures
-<img src="https://github.com/chc2212/Design-of-spatial-database/blob/master/pic1.JPG" width="300" align ="left">
-<img src="https://github.com/chc2212/Design-of-spatial-database/blob/master/pic2.JPG" width="300" align ="left">
