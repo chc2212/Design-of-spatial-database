@@ -46,12 +46,14 @@ in the previously clicked region must be reset to their original colors.
 * If the user unchecks the checkbox “show lions and ponds in selected region”, all
 the lions and ponds must be reset to their original colors.
 
-# Instruction
+# Instructions
 1. Run Sqldeveloper and connect Database (ID: system, Password: 12345)
 2. Query createdb.sql in Sqldeveloper to set up initial table
 3. Import JavaProject to Eclipse
 4. Import library files in JavaProject/library into Eclipse project
 5. Run project
+ 
+
 #Development Enviroment
 - Windows 8
 - Eclipse Luna(4.4.2) 
