@@ -1,6 +1,7 @@
 -------Instruction--------
 1. Import JavaProject to Eclipse
-2. Run project
+2. Import library files in JavaProject/library
+3. Run project
 
 Development Enviroment
 - Windows 8
