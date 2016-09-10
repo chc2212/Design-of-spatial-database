@@ -3,7 +3,7 @@
 #Instruction
 1. Import JavaProject to Eclipse
 2. Import library files in JavaProject/library
-3. Install Oracle Express 11g
+3. Run Oracle Express 11g (ID: system, Password: 12345)
 4. Run project
 
 #Development Enviroment
