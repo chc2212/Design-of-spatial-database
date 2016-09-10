@@ -62,6 +62,6 @@ the lions and ponds must be reset to their original colors.
 - Windows 8
 - Eclipse Luna(4.4.2) 
 - JRE 8
-- Oracle Express 11g
+- Oracle Express 11g express
 - Sqldeveloper 4.1.2
 
