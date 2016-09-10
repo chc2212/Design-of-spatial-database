@@ -16,7 +16,7 @@ ponds where Lions go to drink water.
 
 #Project Requirement
 
-### Create createdb.sql
+1.Create createdb.sql
 * We will use this SQL file to create and populate the database that is used for this project
 on Oracle Express 11g.
 * You need to design the tables and assign data types to attributes such that the
@@ -27,7 +27,7 @@ create one column of SDO_GEOMETRY type and store both coordinates as a point
 object.
 * You must create spatial index for each tablename-geometry column.
 
-### Write a program to write a program to create an application with a
+2.Write a program to write a program to create an application with a
 GUI, which allows users to interact with the spatial data provided in the first part of the
 homework. In case you choose to use Java, you will use JDBC in your java program to
 communicate with the oracle database.
