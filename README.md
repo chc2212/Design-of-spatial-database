@@ -1,5 +1,5 @@
 # Design-of-spatial-database
-This is final project in "Database Systems" lecture.
+This is final project in "Database Systems" lecture. 
 
 #Screen Captures
 <img src="https://github.com/chc2212/Design-of-spatial-database/blob/master/pic1.JPG" width="300" align ="left">
