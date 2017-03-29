@@ -1,18 +1,18 @@
 # Design-of-spatial-database
 This is final project in "Database Systems" lecture. 
 
-#Screen Captures
+# Screen Captures
 <img src="https://github.com/chc2212/Design-of-spatial-database/blob/master/pic1.JPG" width="300" align ="left">
 <img src="https://github.com/chc2212/Design-of-spatial-database/blob/master/pic2.JPG" width="300">
 
-#Project Background
+# Project Background
 Panthera, the world’s leading cat conservation organization, is focusing on saving endangered
 Lions in African national park. They have divided the park into multiple regions and purchased a
 number of ambulances to provide emergency health care service to Lions. Ambulances are
 parked at various locations in the park to cover the nearby lions. The park also has several
 ponds where Lions go to drink water.
 
-#Project Requirement
+# Project Requirement
 
 1.Create createdb.sql
 * We will use this SQL file to create and populate the database that is used for this project
@@ -58,7 +58,7 @@ the lions and ponds must be reset to their original colors.
 5. Run project
  
 
-#Development Enviroment
+# Development Enviroment
 - Windows 8
 - Eclipse Luna(4.4.2) 
 - JRE 8
